@@ -1,0 +1,6 @@
+per dot: 
+	lifespan, color acording to lifespan
+per prog:
+	image_grab, placement, 
+	shared? unique pointers
+	
